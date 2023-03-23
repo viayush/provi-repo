@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "vi-demoapp/1.0.0": {
+        "runtime": {
+          "vi-demoapp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vi-demoapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
